@@ -4,13 +4,12 @@
 [![AAJLI Ahmed](https://readme-typing-svg.herokuapp.com?font=Monospace&weight=900&size=25&pause=1000&color=FF5B35DC&width=435&lines=AAJLI+Ahmed;Fullstack+Web+Developer)](https://git.io/typing-svg)
 
 
-## 🎓 I'm AAJLI Ahmed Fullstack Web Developer!!
-- ✍ You can find my projects in my public repositories
-- 🔭 I’m currently working on my Portfolio
-- 🌱 I'm currently a fifth-year student in computer engineering. 
-- 👯 I'm currently looking for an end-of-studies internship. 
-- 💬 Ask me about ... Anything
-- ⚡ I speak 3 languages ( English, French, Arabic)
+## 🎓 Hi, I'm AAJLI Ahmed - Full-Stack Web Developer!  
+- 🌐 Explore my public repositories to see my projects.  
+- 🚀 Currently working on enhancing my personal portfolio.  
+- 💼 An engineer in computer science, always looking for new challenges.  
+- 🤝 Open to collaborations on innovative web and software projects.  
+- 🌍 Fluent in English, French, and Arabic – feel free to connect! 
 
 ### Skills:
 - Python, C++, Java, PHP
