@@ -4,7 +4,7 @@
 [![AAJLI Ahmed](https://readme-typing-svg.herokuapp.com?font=Monospace&weight=900&size=25&pause=1000&color=FF5B35DC&width=435&lines=AAJLI+Ahmed;Fullstack+Web+Developer)](https://git.io/typing-svg)
 
 
-## 🎓 Hi, I'm AAJLI Ahmed - Full-Stack Web Developer!  
+## 🎓 Hi, I'm AAJLI Ahmed - Full-Stack Web Developer !  
 - 🌐 Explore my public repositories to see my projects.  
 - 🚀 Currently working on enhancing my personal portfolio.  
 - 💼 An engineer in computer science, always looking for new challenges.  
